@@ -72,3 +72,8 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/BlinkMechanics/Content/__ExternalActors__
+/BlinkMechanics/Content/__ExternalObjects__
+/BlinkMechanics/Content/StarterContent
+/BlinkMechanics/Saved
+/BlinkMechanics/Intermediate
